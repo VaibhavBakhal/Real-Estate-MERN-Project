@@ -22,7 +22,7 @@ const Properties = () => {
           height="80"
           width="80"
           radius={1}
-          color="#4066ff"
+          color="#5a4fcf"
           aria-label="puff-loading"
         />
       </div>
